@@ -1,0 +1,27 @@
+{
+  "name": "ZPTencentIMPod",
+  "version": "0.1.0",
+  "summary": "腾讯IM",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/PengZuo/ZPTencentIMPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zp_crash@163.com": "[zp_crash@163.com]"
+  },
+  "source": {
+    "git": "https://github.com/PengZuo/ZPTencentIMPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZPTencentIMPod/Classes/**/*",
+  "dependencies": {
+    "TXIMSDK_TUIKit_iOS": [
+      "~> 4.4.479"
+    ]
+  }
+}

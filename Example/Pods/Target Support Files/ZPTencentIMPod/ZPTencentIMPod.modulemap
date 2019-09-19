@@ -1,0 +1,6 @@
+framework module ZPTencentIMPod {
+  umbrella header "ZPTencentIMPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
