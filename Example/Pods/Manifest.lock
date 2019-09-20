@@ -14,7 +14,7 @@ PODS:
     - SDWebImage
     - Toast
     - TXIMSDK_iOS
-  - ZPTencentIMPod (0.1.0):
+  - ZPTencentIMPod (0.1.1):
     - TXIMSDK_TUIKit_iOS (~> 4.4.479)
 
 DEPENDENCIES:
@@ -42,7 +42,7 @@ SPEC CHECKSUMS:
   Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
   TXIMSDK_iOS: 7cf467dc7c90f294b894e8a7b7004bce7acfd332
   TXIMSDK_TUIKit_iOS: c6ba8a30b963e2a076fdaacc5ac42e5ad43f18c0
-  ZPTencentIMPod: fdcc2eca584f65855ad7ae2781cab3ac4ebe5b90
+  ZPTencentIMPod: fe88dbacf79973e6768a0c75237cc1600a5aae25
 
 PODFILE CHECKSUM: 94aa8f5bec2b899f0a653bc7ba0999499468a15c
 
